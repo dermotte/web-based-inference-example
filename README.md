@@ -2,6 +2,8 @@
 
 A web-based AI inference interface using Hugging Face Transformers.js with ONNX models.
 
+Try it on https://dermotte.github.io/web-based-inference-example/
+
 ## Features
 
 - **Editable Prompts**: Modify both system prompt and user request directly in the browser
